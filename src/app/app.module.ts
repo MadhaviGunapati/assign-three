@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { AdminComponent } from './admin/admin.component';
 import { UserComponent } from './user/user.component';
 import { FilterPipe } from './admin/filterData.component';
+import { UserService } from './service/user.service';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,9 @@ import { FilterPipe } from './admin/filterData.component';
     BrowserModule,
     FormsModule
   ],
-  providers: [],
+  providers: [
+    UserService
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

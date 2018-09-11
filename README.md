@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # AssignTwo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.4.
@@ -30,3 +31,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # assign-two
 angular module2 assignment
 >>>>>>> 7555ca973e40e4f357316e28e38175c752660351
+=======
+# assign-three
+angular assignment three
+>>>>>>> b3db88b7c94dc95978bece54e6fed7e0e37c7849
